@@ -9,7 +9,7 @@ export const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center justify-center">
           <img 
-            src="/lovable-uploads/6ab53e49-cffd-41d2-84d1-80613f51aa2c.png" 
+            src="/uploads/Group 89.png" 
             alt="Intouch Outsourcing" 
             className="h-14 mb-4"
           />

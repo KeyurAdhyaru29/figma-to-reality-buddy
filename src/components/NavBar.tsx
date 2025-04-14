@@ -11,7 +11,7 @@ export const NavBar = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center">
           <img 
-            src="/lovable-uploads/6ab53e49-cffd-41d2-84d1-80613f51aa2c.png" 
+            src="/uploads/Group 89.png" 
             alt="Intouch Outsourcing" 
             className="h-12"
           />
